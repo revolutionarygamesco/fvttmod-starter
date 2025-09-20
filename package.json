@@ -1,6 +1,6 @@
 {
-  "name": "fvttmod-starter",
-  "private": true,
+  "name": "@revolutionarygamesco/fvttmod-starter",
+  "description": "A starting point for Foundry VTT modules.",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
