@@ -21,6 +21,13 @@
     "styles/module.css"
   ],
   "packs": [],
+  "packFolders": [
+    {
+      "name": "Foundry VTT Module Starter",
+      "sorting": "a",
+      "packs": []
+    }
+  ],
   "languages": [
     {
       "lang": "en",
