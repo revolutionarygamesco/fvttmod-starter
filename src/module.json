@@ -41,10 +41,10 @@
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
-  "bugs": "https://github.com/revolutionarygamesco/fvtt-starter/issues",
-  "changelog": "https://github.com/revolutionarygamesco/fvtt-starter/blob/main/CHANGELOG.md",
-  "license": "https://github.com/revolutionarygamesco/fvtt-starter/blob/main/LICENSE",
-  "readme": "https://github.com/revolutionarygamesco/fvtt-starter/blob/main/README.md",
+  "bugs": "#{BUGS}#",
+  "changelog": "#{CHANGELOG}#",
+  "license": "#{LICENSE}#",
+  "readme": "#{README}#",
   "funding": [
     {
       "type": "patreon",
