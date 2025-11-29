@@ -36,7 +36,6 @@
     }
   ],
   "relationships": {},
-  "includes": [],
   "socket": false,
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
@@ -44,11 +43,5 @@
   "bugs": "#{BUGS}#",
   "changelog": "#{CHANGELOG}#",
   "license": "#{LICENSE}#",
-  "readme": "#{README}#",
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://patreon.com/revolutionarygamesco"
-    }
-  ]
+  "readme": "#{README}#"
 }
