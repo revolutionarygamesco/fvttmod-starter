@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.build.json && vite build",
+    "pack": "node ./scripts/pack.js",
+    "complete-table": "node ./scripts/complete-table.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
