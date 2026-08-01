@@ -13,18 +13,22 @@
     "typecheck:build": "tsc -p tsconfig.build.json"
   },
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^3.0.2",
-    "@jest/globals": "^30.1.2",
-    "@types/node": "^24.5.2",
+    "@foundryvtt/foundryvtt-cli": "^3.0.4",
+    "@types/node": "^26.1.2",
     "@vitest/coverage-v8": "^4.1.10",
-    "sass": "^1.93.0",
-    "typescript": "~5.8.3",
-    "vite": "^7.1.6",
-    "vite-plugin-static-copy": "^3.1.4",
+    "sass": "^1.102.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.0",
+    "vite-plugin-static-copy": "^4.1.1",
     "vitest": "^4.1.10"
   },
   "dependencies": {
     "@revolutionarygamesco/common": "^1.2.6",
     "@revolutionarygamesco/common-foundryvtt": "^0.3.14"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.5.1": true,
+    "classic-level@3.0.0": true,
+    "fsevents@2.3.3": true
   }
 }
