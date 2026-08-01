@@ -1,3 +1,4 @@
+import '@revolutionarygamesco/common-foundryvtt'
 import { MODULE_NAME } from './settings.ts'
 
 Hooks.on('init', () => {
