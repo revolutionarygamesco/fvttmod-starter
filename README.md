@@ -9,7 +9,7 @@ This repository is a starting point for
 making new Foundry VTT modules according
 to our preferences:
 
-* Jest ready to go for test-driven development (TDD)
+* Vite and vitest ready to go for test-driven development (TDD)
 * Typescript
 * Sass
 * GitHub Actions workflows for packaging releases and running tests on each push
