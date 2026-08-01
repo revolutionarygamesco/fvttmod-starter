@@ -23,6 +23,7 @@
     "vitest": "^4.1.10"
   },
   "dependencies": {
-    "@revolutionarygamesco/common": "^1.2.6"
+    "@revolutionarygamesco/common": "^1.2.6",
+    "@revolutionarygamesco/common-foundryvtt": "^0.3.14"
   }
 }
